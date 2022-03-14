@@ -1,4 +1,4 @@
-# My-Second-Masterpiece
+# Robot Arm Project
 That's what I named when I was in high school senior, July.
 This is a code for Arduino Robot Arm.
 It can move every way in the area of hemisphere.
