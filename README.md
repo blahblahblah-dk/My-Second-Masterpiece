@@ -1,9 +1,10 @@
 # Robot Arm Project
-That's what I named when I was in high school senior, July.
+I made this when I was in high school senior, July.
 This is a code for Arduino Robot Arm.
 It can move every way in the area of hemisphere.
 Also you can pick something up with your tongs connected to the servo3 motor.
 I refered to the Youtube video of the part of linking three servo motors.
+Also there's a video of this robot arm in my Notion, so check it out if you are interested in!
 
 
 
